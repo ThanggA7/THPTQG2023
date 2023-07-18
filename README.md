@@ -1,4 +1,6 @@
 # THPTQG2023
+pip install requests
+
 
 # Dữ liệu thô Điểm thi tốt nghiệp THPT 2023
 
